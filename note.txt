@@ -1,0 +1,2 @@
+#mysql 删除分区方法记录
+alter table titles drop partition p01;
